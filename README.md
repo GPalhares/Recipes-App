@@ -1,7 +1,7 @@
 # RECIPES APP
 
 <p align="center">
-  <img src='./imagesReadme/recipeAppLogin.png' width='360px'>
+  <img src='imagesReadme/recipesAppLogin.png' width='360px'>
 </p>
 
 <br>
