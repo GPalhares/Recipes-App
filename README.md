@@ -6,17 +6,27 @@
 
 <br>
 
-## O que é? / What is it?
+# O que é? 
+
 O Mais Voce é um aplicativo de receitas de comida e bebida, onde o usuário pode pesquisar por receitas, filtrar por categoria, nome e ingredientes, além de poder favoritar receitas e acessar receitas favoritas.
-
 <br>
 
-#### EN-US
-Mais Voce is a recipe app for food and drink, where the user can search for recipes, filter by category, name and ingredients, as well as being able to favorite recipes and access favorite recipes.
-<br>
-<br>
+# Features:
+## Meals and Drinks Recipes
 
-## Tecnologias utilizadas / Technologies used
+<p align="center">
+ <img src='imagesReadme/recipeAppMeals.png' width='360px'>
+  </div>
+ <img src='imagesReadme/recipesAppDrinks.png' width='360px'></p>
+ 
+## Ingredientes
+<p align="center"><img src='imagesReadme/recipesAppIngredients.png' width='360px'></p>
+
+## Tutorial Youtube
+<p align="center"><img src='imagesReadme/recipesAppYoutubeVideo.png' width='360px'></p>
+
+
+## Tecnologias utilizadas
 - React
 - Redux Toolkit
 - React Router
@@ -25,7 +35,7 @@ Mais Voce is a recipe app for food and drink, where the user can search for reci
 
 <br>
 
-## Quem fez? / Who made it?
+# Quem fez? 
 - [Pedro Silva](https://github.com/opedrodev)
 - [Gabriel Palhares](https://github.com/GPalhares)
 - [Gabriel Matina](https://github.com/gabrielmatina)
@@ -35,5 +45,5 @@ Mais Voce is a recipe app for food and drink, where the user can search for reci
 
 <br>
 
-## Como usar? / How to use?
-- Live Demo: [Mais Voce](https://maisvoce.netlify.app/)
+# Como usar? / How to use?
+- Live Demo: 
