@@ -36,8 +36,8 @@ O Mais Voce é um aplicativo de receitas de comida e bebida, onde o usuário pod
 <br>
 
 # Quem fez? 
-- [Pedro Silva](https://github.com/opedrodev)
 - [Gabriel Palhares](https://github.com/GPalhares)
+- [Pedro Silva](https://github.com/opedrodev)
 - [Gabriel Matina](https://github.com/gabrielmatina)
 - [Malu Brandão](https://github.com/malubrandaor)
 - [Lucas Daniel](https://github.com/LDRezende)
