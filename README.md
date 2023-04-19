@@ -46,4 +46,4 @@ O Mais Voce é um aplicativo de receitas de comida e bebida, onde o usuário pod
 <br>
 
 # Como usar? / How to use?
-- Live Demo: 
+- Live Demo: https://gabriel-palhares-recipes-app.netlify.app/
